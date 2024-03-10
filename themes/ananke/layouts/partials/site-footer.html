@@ -1,0 +1,10 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <center><p class="gray mw8">DISCLAIMER: Charlotte Stormwater is not affiliated with or sponsored in any way by Charlotte-Mecklenburg Stormwater Services. It is its own seperate entity specializing in providing Stormwater maintenance and compliance services. Do you need help? Submit our contact form today and a represtentative will be in touch! </p></center>
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+  
+</footer>

@@ -1,0 +1,14 @@
+baseURL = 'https://charlottestormwater.com'
+description = 'Charlotte Stormwater inspections, maintenance and installations. Best Management Practices implemented and maintained to engineered plans.'
+languageCode = 'en-us'
+googleAnalytics="G-7V5YR3TCLX"
+title = 'Charlotte Stormwater'
+theme = 'ananke'
+[params]
+    author = "NC SCM Inspector"
+    subtitle = 'Drainage Solutions for Stormwater in NC'
+    [params.contact]
+        email = 'help@charlottestormwater.com'
+
+[[params.customCSS]]
+ href = "/assets/ananke/css/customstyles.css"

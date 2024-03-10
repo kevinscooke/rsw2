@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Charlotte Stormwater</title>
+    <link>https://charlottestormwater.com/posts/</link>
+    <description>Recent content in Posts on Charlotte Stormwater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 13:29:40 -0500</lastBuildDate>
+    <atom:link href="https://charlottestormwater.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Storm Drainage System</title>
+      <link>https://charlottestormwater.com/posts/storm-system/</link>
+      <pubDate>Wed, 20 Dec 2023 13:29:40 -0500</pubDate>
+      <guid>https://charlottestormwater.com/posts/storm-system/</guid>
+      <description>Communities strategically construct stormwater drainage systems, often referred to as stormwater sewer systems, to efficiently collect and transport surface runoff. This proactive measure serves to mitigate local flooding, which has the potential to disrupt traffic flow, cause structural damage to buildings, and jeopardize both personal and public property. The intricate network of drainage system components includes curbs, gutters, drainage swales, ditches, inlets leading to catch basins, and an underground web of stormwater pipes.</description>
+    </item>
+    <item>
+      <title>What is a storm?</title>
+      <link>https://charlottestormwater.com/posts/storm-definition/</link>
+      <pubDate>Wed, 20 Dec 2023 08:29:40 -0500</pubDate>
+      <guid>https://charlottestormwater.com/posts/storm-definition/</guid>
+      <description>Storms are typically categorized based on factors such as wind velocity, rain intensity, duration, and the extent of the affected area. Agencies like the National Oceanic and Atmospheric Administration (NOAA) employ additional parameters, including barometric pressure, to gauge the potential severity of storms. Utilizing these storm characteristics, federal, state, and local agencies assess the potential for property damage, urging residents in impacted areas to be prepared, prioritize safety measures, and anticipate challenges such as flooding and high winds.</description>
+    </item>
+    <item>
+      <title>Charlotte Stormwater is Live!</title>
+      <link>https://charlottestormwater.com/posts/charlotte-stormwater/</link>
+      <pubDate>Tue, 19 Dec 2023 08:29:40 -0500</pubDate>
+      <guid>https://charlottestormwater.com/posts/charlotte-stormwater/</guid>
+      <description>Welcome to CharlotteStormwater.com, your comprehensive resource for addressing stormwater-related challenges in North Carolina. As a property owner, you understand the significance of effective stormwater management in maintaining the health and resilience of your community. Whether you&amp;rsquo;re navigating stormwater control measures (SCMs) on your property or grappling with new flooding issues arising from development, our platform is here to provide the guidance and assistance you need. Our mission is to empower property owners with the knowledge and tools necessary to navigate the complexities of stormwater management successfully.</description>
+    </item>
+  </channel>
+</rss>
